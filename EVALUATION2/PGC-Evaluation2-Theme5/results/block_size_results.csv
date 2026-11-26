@@ -1,0 +1,7 @@
+block_size,blocks_launched,warps_per_block,median_time_ms,relative_speed,validation
+32,524288,1,0.54819202,,PASS
+64,262144,2,0.50934398,,PASS
+128,131072,4,0.50889599,,PASS
+256,65536,8,0.51180798,,PASS
+512,32768,16,0.508928,,PASS
+1024,16384,32,0.514368,,PASS

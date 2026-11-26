@@ -1,0 +1,10 @@
+property,value
+gpu_name,NVIDIA GeForce RTX 5060 Ti
+compute_capability,12.0
+sm_count,36
+warp_size,32
+max_threads_per_block,1024
+registers_per_sm,65536
+shared_memory_per_sm_bytes,102400
+shared_memory_per_block_bytes,49152
+total_global_memory_bytes,17102864384

@@ -1,0 +1,7 @@
+block_size,registers_per_thread,active_blocks_per_sm,active_warps_per_sm,theoretical_occupancy,limiting_resources
+32,compiler_reported_separately,24,24,50,API resource model (register/shared-memory/kernel limits)
+64,compiler_reported_separately,24,48,100,API resource model (register/shared-memory/kernel limits)
+128,compiler_reported_separately,12,48,100,API resource model (register/shared-memory/kernel limits)
+256,compiler_reported_separately,6,48,100,API resource model (register/shared-memory/kernel limits)
+512,compiler_reported_separately,3,48,100,API resource model (register/shared-memory/kernel limits)
+1024,compiler_reported_separately,1,32,66.6667,API resource model (register/shared-memory/kernel limits)
